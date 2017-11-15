@@ -73,3 +73,7 @@ crashlytics.properties
 crashlytics-build.properties
 fabric.properties
 
+/PracaDomowa_1.3.iml
+*.xml
+*.html
+.idea/*
